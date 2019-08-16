@@ -29,3 +29,6 @@ https://www.research.ox.ac.uk/Article/2018-10-15-how-ai-can-help-us-save-the-pla
 
 
 https://github.com/facebookresearch/maskrcnn-benchmark
+
+
+http://teamcore.usc.edu/people/Paws/index.html
