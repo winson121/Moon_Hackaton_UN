@@ -12,6 +12,8 @@ http://kt.agh.edu.pl/matiolanski/KnivesImagesDatabase/
 
 https://medium.com/@yoobi55/setting-up-heroku-server-with-node-js-express-eng-b0c8cc61a2a9
 
+# Image Segmentation
+https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/
 # Converting Video to frames with opencv2
 https://www.pyimagesearch.com/2017/02/06/faster-video-file-fps-with-cv2-videocapture-and-opencv/
 
