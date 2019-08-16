@@ -16,7 +16,8 @@ https://medium.com/@yoobi55/setting-up-heroku-server-with-node-js-express-eng-b0
 https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/
 # Converting Video to frames with opencv2
 https://www.pyimagesearch.com/2017/02/06/faster-video-file-fps-with-cv2-videocapture-and-opencv/
-
+# K-Nearest Neighbour
+http://cs231n.github.io/classification/
 # Biodiversity
 https://medium.com/@kesari/how-ai-can-save-earths-biodiversity-94555d57dd28
 https://medium.com/datadriveninvestor/upcoming-talks-on-how-ai-is-saving-our-planets-biodiversity-37f43e4bc624
