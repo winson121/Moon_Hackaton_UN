@@ -4,6 +4,7 @@ Potential datasets:
 
 Pistol
 https://sci2s.ugr.es/weapons-detection
+https://www.kaggle.com/issaisasank/guns-object-detection
 
 Knive:
 http://kt.agh.edu.pl/matiolanski/KnivesImagesDatabase/
