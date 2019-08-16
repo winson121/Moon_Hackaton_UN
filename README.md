@@ -12,9 +12,8 @@ http://kt.agh.edu.pl/matiolanski/KnivesImagesDatabase/
 
 https://medium.com/@yoobi55/setting-up-heroku-server-with-node-js-express-eng-b0c8cc61a2a9
 
-# Sustainable energy usage from Farm to Feed and its impact on climate
-## Life Cycle Assesment
-https://www.ecoinvent.org/files/131021_nemecek_lca_of_agricultural_systems.pdf
+# Converting Video to frames with opencv2
+https://www.pyimagesearch.com/2017/02/06/faster-video-file-fps-with-cv2-videocapture-and-opencv/
 
 # Biodiversity
 https://medium.com/@kesari/how-ai-can-save-earths-biodiversity-94555d57dd28
