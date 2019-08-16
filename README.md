@@ -19,4 +19,5 @@ https://medium.com/datadriveninvestor/upcoming-talks-on-how-ai-is-saving-our-pla
 https://blogs.microsoft.com/green/2017/01/30/protecting-biodiversity-with-artificial-intelligence/
 https://blogs.nvidia.com/blog/2018/02/22/ai-for-biodiversity-informatics/
 https://www.aaai.org/ojs/index.php/aimagazine/article/view/2431
+
 https://www.research.ox.ac.uk/Article/2018-10-15-how-ai-can-help-us-save-the-planet
